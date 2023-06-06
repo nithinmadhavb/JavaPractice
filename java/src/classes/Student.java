@@ -10,8 +10,13 @@ public class Student {
 		int age;
 		float fee;
 		boolean graduation;
+		System.out.println(gradeCalculation(5,3));
+		
+	}
 
-
+	int gradeCalculation(int sub1, int sub2) {
+		// TODO Auto-generated method stub
+		return sub1+sub2;
 	}
 
 }
