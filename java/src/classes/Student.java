@@ -14,7 +14,7 @@ public class Student {
 		
 	}
 
-	int gradeCalculation(int sub1, int sub2) {
+	static int gradeCalculation(int sub1, int sub2) {
 		// TODO Auto-generated method stub
 		return sub1+sub2;
 	}
